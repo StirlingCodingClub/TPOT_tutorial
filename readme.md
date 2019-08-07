@@ -35,10 +35,10 @@ Accept the transaction, and it should be created. We can then switch to out new 
 > conda activate tpot_env
 ```
 
-And then we install the packages we will need for this tutorial session: `tpot` itself, `pandas` and `geopandas`, and `TBD`.  We will also use *Jupyter notebook* to run the code, so we install it on our environment as well:
+And then we install the packages we will need for this tutorial session: `tpot` itself, `pandas` and `geopandas`, `scikit_learn` (the ML library in Python) and `xgboost` (a pretty good ML algorithm that is not part of `scikit-learn`) .  We will also use *Jupyter notebook* to run the code, so we install it on our environment as well:
 
 ```
-conda install -c conda-forge tpot pandas geopandas jupyter
+conda install -c conda-forge tpot pandas geopandas jupyter scikit-learn
 ```
 
 The Jupyter notebook depends on having a  *python kernel* installed for it to work, which we do by: 
