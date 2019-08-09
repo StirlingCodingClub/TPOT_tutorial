@@ -1,6 +1,6 @@
 ## A brief tutorial on AutoML using the TPOT package
 
-This is a simple demo of how to use TPOT ion Python. 
+This is a simple demo of how to use TPOT on Python. If you are new to Python but know R, this [cheatsheet](https://github.com/SrihariPramod/R_vs_Python_Cheatsheet/blob/master/R_vs_Python.pdf) might be useful.
 
 As the developers say, [TPOT](https://epistasislab.github.io/tpot/) is "(a) Data Science Assistant. TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. (It) will automate the most tedious part of machine learning by intelligently exploring thousands of possible pipelines to find the best
 one for your data."
